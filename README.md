@@ -24,11 +24,18 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 - Registration Area
 
+![chrome-capture (11)](https://user-images.githubusercontent.com/50359290/67096796-28f68880-f1b9-11e9-9fd3-1499ef86f141.gif)
+
 ![chrome-capture](https://user-images.githubusercontent.com/50359290/67206363-c9df8080-f411-11e9-9446-3fd8ee61d7f0.jpg)
 
 ![chrome-capture (1)](https://user-images.githubusercontent.com/50359290/67206538-217dec00-f412-11e9-94ba-022c33394fd0.jpg)
 
-![chrome-capture (11)](https://user-images.githubusercontent.com/50359290/67096796-28f68880-f1b9-11e9-9fd3-1499ef86f141.gif)
+- Login Area 
+
+![chrome-capture (12)](https://user-images.githubusercontent.com/50359290/67206883-c7315b00-f412-11e9-9999-6371e03d4ac4.gif)
+
+![chrome-capture (2)](https://user-images.githubusercontent.com/50359290/67207039-137c9b00-f413-11e9-82a6-7775a26d2910.jpg)
+
 
 
 
