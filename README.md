@@ -38,6 +38,10 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![chrome-capture (2)](https://user-images.githubusercontent.com/50359290/67207039-137c9b00-f413-11e9-82a6-7775a26d2910.jpg)
 
+- Profile Settings 
+
+![profile-capture](https://user-images.githubusercontent.com/50359290/67399111-0515b700-f5ac-11e9-9cca-b8703e30ae98.gif)
+
 
 
 
