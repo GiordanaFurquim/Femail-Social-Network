@@ -46,6 +46,8 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 - Bio Uploader
 
+![chrome-capture (6)](https://user-images.githubusercontent.com/50359290/67401428-6e4af980-f5af-11e9-9c15-d0adccfe54a4.jpg)
+
 ![chrome-capture (13)](https://user-images.githubusercontent.com/50359290/67401268-35128980-f5af-11e9-90fe-44fb483a2b3c.gif)
 
 
