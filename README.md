@@ -55,3 +55,10 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![chrome-capture (15)](https://user-images.githubusercontent.com/50359290/67403217-e74b5080-f5b1-11e9-9c66-0cd0515b7941.gif)
 
+## Chat Room 
+![chrome-capture (9)](https://user-images.githubusercontent.com/50359290/67406135-f92ef280-f5b5-11e9-8f6c-9df21692faa2.jpg)
+
+![chrome-capture (18)](https://user-images.githubusercontent.com/50359290/67405986-c08f1900-f5b5-11e9-985c-1af3f989e0e4.gif)
+
+
+
