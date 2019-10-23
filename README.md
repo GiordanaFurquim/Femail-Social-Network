@@ -42,6 +42,10 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![profile-capture](https://user-images.githubusercontent.com/50359290/67399111-0515b700-f5ac-11e9-9cca-b8703e30ae98.gif)
 
+![chrome-capture (3)](https://user-images.githubusercontent.com/50359290/67400450-f3351380-f5ad-11e9-9f1b-96e1dda74431.jpg)
+
+
+![chrome-capture (5)](https://user-images.githubusercontent.com/50359290/67400375-dac4f900-f5ad-11e9-9dc2-17965a5ea944.jpg)
 
 
 
