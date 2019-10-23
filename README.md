@@ -60,5 +60,9 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![chrome-capture (18)](https://user-images.githubusercontent.com/50359290/67405986-c08f1900-f5b5-11e9-985c-1af3f989e0e4.gif)
 
+## Friendship Status
+![chrome-capture (19)](https://user-images.githubusercontent.com/50359290/67406866-f1bc1900-f5b6-11e9-8018-ab9d47597262.gif)
+
+
 
 
