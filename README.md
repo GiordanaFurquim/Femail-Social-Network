@@ -32,22 +32,26 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![chrome-capture (1)](https://user-images.githubusercontent.com/50359290/67206538-217dec00-f412-11e9-94ba-022c33394fd0.jpg)
 
-- Login Area 
+## Login Area 
 
 ![chrome-capture (12)](https://user-images.githubusercontent.com/50359290/67206883-c7315b00-f412-11e9-9999-6371e03d4ac4.gif)
 
 ![chrome-capture (2)](https://user-images.githubusercontent.com/50359290/67207039-137c9b00-f413-11e9-82a6-7775a26d2910.jpg)
 
-- Profile Settings 
+## Profile Settings 
 
 ![profile-capture](https://user-images.githubusercontent.com/50359290/67399111-0515b700-f5ac-11e9-9cca-b8703e30ae98.gif)
 
 ![chrome-capture (3)](https://user-images.githubusercontent.com/50359290/67400450-f3351380-f5ad-11e9-9f1b-96e1dda74431.jpg)
 
-- Bio Uploader
+## Bio Uploader
 
 ![chrome-capture (6)](https://user-images.githubusercontent.com/50359290/67401428-6e4af980-f5af-11e9-9c15-d0adccfe54a4.jpg)
 
 ![chrome-capture (13)](https://user-images.githubusercontent.com/50359290/67401268-35128980-f5af-11e9-90fe-44fb483a2b3c.gif)
 
+## Set Profile
+![chrome-capture (7)](https://user-images.githubusercontent.com/50359290/67403480-4315d980-f5b2-11e9-978b-0c2c88357a98.jpg)
+
+![chrome-capture (15)](https://user-images.githubusercontent.com/50359290/67403217-e74b5080-f5b1-11e9-9c66-0cd0515b7941.gif)
 
