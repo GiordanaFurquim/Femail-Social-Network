@@ -24,7 +24,7 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 # Preview
 
-- Registration Area
+## Registration Area
 
 ![chrome-capture (11)](https://user-images.githubusercontent.com/50359290/67096796-28f68880-f1b9-11e9-9fd3-1499ef86f141.gif)
 
