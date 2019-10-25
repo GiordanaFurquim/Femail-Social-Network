@@ -63,6 +63,10 @@ The project is still ongoing and ideas and collaborators are welcome.
 ## Friendship Status
 ![chrome-capture (19)](https://user-images.githubusercontent.com/50359290/67406866-f1bc1900-f5b6-11e9-8018-ab9d47597262.gif)
 
+## Users Finder and New Members
+![chrome-capture (20)](https://user-images.githubusercontent.com/50359290/67601157-fe39a080-f773-11e9-87c5-736e0f9ea4d9.gif)
+
+
 
 
 
