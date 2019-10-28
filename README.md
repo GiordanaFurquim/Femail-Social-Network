@@ -46,9 +46,7 @@ The project is still ongoing and ideas and collaborators are welcome.
 ![chrome-capture (24)](https://user-images.githubusercontent.com/50359290/67683084-f7d44000-f990-11e9-96b3-26f85c9b5ded.gif)
 
 ## Set Profile
-![chrome-capture (7)](https://user-images.githubusercontent.com/50359290/67403480-4315d980-f5b2-11e9-978b-0c2c88357a98.jpg)
-
-![chrome-capture (15)](https://user-images.githubusercontent.com/50359290/67403217-e74b5080-f5b1-11e9-9c66-0cd0515b7941.gif)
+![chrome-capture (25)](https://user-images.githubusercontent.com/50359290/67683568-e50e3b00-f991-11e9-8d27-ea486f063f11.gif)
 
 ## Chat Room 
 ![chrome-capture (21)](https://user-images.githubusercontent.com/50359290/67602807-bd438b00-f777-11e9-920d-5d028983a467.gif)
