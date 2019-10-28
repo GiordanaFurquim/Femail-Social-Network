@@ -41,8 +41,6 @@ The project is still ongoing and ideas and collaborators are welcome.
 ## Profile Settings 
 ![chrome-capture (23)](https://user-images.githubusercontent.com/50359290/67682390-8cd63980-f98f-11e9-84fb-e87ffbf04ebe.gif)
 
-![chrome-capture (3)](https://user-images.githubusercontent.com/50359290/67400450-f3351380-f5ad-11e9-9f1b-96e1dda74431.jpg)
-
 ## Bio Uploader
 
 ![chrome-capture (6)](https://user-images.githubusercontent.com/50359290/67401428-6e4af980-f5af-11e9-9c15-d0adccfe54a4.jpg)
