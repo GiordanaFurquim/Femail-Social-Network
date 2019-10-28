@@ -52,12 +52,14 @@ The project is still ongoing and ideas and collaborators are welcome.
 ![chrome-capture (21)](https://user-images.githubusercontent.com/50359290/67602807-bd438b00-f777-11e9-920d-5d028983a467.gif)
 ![chrome-capture (9)](https://user-images.githubusercontent.com/50359290/67406135-f92ef280-f5b5-11e9-8f6c-9df21692faa2.jpg)
 
-
 ## Friendship Status
 ![chrome-capture (19)](https://user-images.githubusercontent.com/50359290/67406866-f1bc1900-f5b6-11e9-8018-ab9d47597262.gif)
 
 ## Users Finder and New Members
 ![chrome-capture (20)](https://user-images.githubusercontent.com/50359290/67601157-fe39a080-f773-11e9-87c5-736e0f9ea4d9.gif)
+
+## Colaborators Finder
+![chrome-capture (26)](https://user-images.githubusercontent.com/50359290/67684216-0e7b9680-f993-11e9-90d9-b3663070a47e.gif)
 
 
 
