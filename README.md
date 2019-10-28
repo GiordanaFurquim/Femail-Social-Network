@@ -20,9 +20,8 @@ The Recommendation system used for this feature is Python based and was develope
 - Output as a JSON file
 - Output gets rendered on Femail
 
-The project is still ongoing and ideas and collaborators are welcome. 
 
-# Preview
+# Features and Preview
 
 ## Registration Area
 
@@ -30,13 +29,9 @@ The project is still ongoing and ideas and collaborators are welcome.
 
 ![chrome-capture](https://user-images.githubusercontent.com/50359290/67206363-c9df8080-f411-11e9-9446-3fd8ee61d7f0.jpg)
 
-![chrome-capture (1)](https://user-images.githubusercontent.com/50359290/67206538-217dec00-f412-11e9-94ba-022c33394fd0.jpg)
-
 ## Login Area 
 
 ![chrome-capture (12)](https://user-images.githubusercontent.com/50359290/67206883-c7315b00-f412-11e9-9999-6371e03d4ac4.gif)
-
-![chrome-capture (2)](https://user-images.githubusercontent.com/50359290/67207039-137c9b00-f413-11e9-82a6-7775a26d2910.jpg)
 
 ## Profile Settings 
 ![chrome-capture (23)](https://user-images.githubusercontent.com/50359290/67682390-8cd63980-f98f-11e9-84fb-e87ffbf04ebe.gif)
@@ -44,6 +39,9 @@ The project is still ongoing and ideas and collaborators are welcome.
 ## Bio Uploader
 
 ![chrome-capture (24)](https://user-images.githubusercontent.com/50359290/67683084-f7d44000-f990-11e9-96b3-26f85c9b5ded.gif)
+
+## Picture Uploader 
+![chrome-capture (1)](https://user-images.githubusercontent.com/50359290/67685902-27d21200-f996-11e9-9cf6-b885f1362de1.gif)
 
 ## Set Profile
 ![chrome-capture (25)](https://user-images.githubusercontent.com/50359290/67683568-e50e3b00-f991-11e9-8d27-ea486f063f11.gif)
