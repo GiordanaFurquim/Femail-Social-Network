@@ -58,6 +58,10 @@ The Recommendation system used for this feature is Python based and was develope
 ## Colaborators Finder
 ![chrome-capture (26)](https://user-images.githubusercontent.com/50359290/67684216-0e7b9680-f993-11e9-90d9-b3663070a47e.gif)
 
+## Recommendations Page
+![chrome-capture (2)](https://user-images.githubusercontent.com/50359290/67764357-18140580-fa4a-11e9-9a08-fe37f26e94c0.gif)
+
+
 
 
 
