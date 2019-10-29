@@ -59,7 +59,6 @@ The Recommendation system used for this feature is Python based and was develope
 ![chrome-capture (26)](https://user-images.githubusercontent.com/50359290/67684216-0e7b9680-f993-11e9-90d9-b3663070a47e.gif)
 
 ## Recommendations Page
-![chrome-capture](https://user-images.githubusercontent.com/50359290/67765812-47784180-fa4d-11e9-84e5-f49998c9878b.gif)
 
 
 
