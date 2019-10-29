@@ -1,0 +1,840 @@
+* {
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.header-on-register nav {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    background-color: white;
+}
+
+.header-on-register nav a {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.login-button-header {
+    margin-left: 10px;
+    padding: 8px;
+}
+
+p.login {
+    font-size: 15px;
+    margin-right: 100px;
+    letter-spacing: 1px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.7s;
+    font-family: "Staatliches", cursive;
+}
+
+.login-button-header a {
+    color: white;
+}
+
+p.femail {
+    font-family: "Staatliches", cursive;
+    font-size: 70px;
+    margin-left: 100px;
+}
+
+.header-on-app {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0;
+}
+
+.profile-container {
+    margin-top: 198px;
+}
+
+.find-collaborator-container {
+    margin-top: 158px;
+}
+
+.header-on-app a {
+    text-decoration: none;
+    font-family: "Staatliches", cursive;
+    font-weight: bolder;
+    font-size: 15px;
+    color: black;
+}
+
+.header-on-app nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-left: 190px;
+}
+
+.greeting-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+    padding-bottom: 10px;
+}
+
+.logout-button {
+    padding: 0;
+}
+
+.logout-button:hover {
+    border: solid 1px black;
+}
+
+.logout-button a {
+    color: white;
+}
+
+.logout-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.femail-on-app {
+    font-family: "Staatliches", cursive;
+    font-size: 70px;
+    font-weight: normal;
+}
+
+.hi-on-app {
+    font-family: "Kanit", sans-serif;
+    font-size: 15px;
+}
+
+.header-image {
+    padding-bottom: 10px;
+}
+
+.header-pic {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: solid black 3px;
+    margin-top: 15px;
+}
+
+.find-users-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.friends-component-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 158px;
+}
+
+.find-users-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 10%;
+    padding-right: 100px;
+}
+
+.find-users-wrapper a {
+    text-decoration: none;
+}
+
+.find-users-small-container h1 {
+    font-family: "Staatliches", cursive;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.find-users-small-container h2 {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.find-users-small-container h3 {
+    font-family: "Staatliches", cursive;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.find-users-small-container h4 {
+    font-family: "Staatliches", cursive;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    color: black;
+}
+
+.all-buttons {
+    margin-left: 50px;
+}
+
+.find-users-small-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.find-users-small-container input {
+    width: 60%;
+    padding: 15px;
+    margin-bottom: 5%;
+    border: solid 3px black;
+    border-radius: 3px;
+    background: transparent;
+}
+
+.register-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+    margin-top: 15%;
+}
+
+.form-block-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-block-two {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill-one-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+}
+
+.skill-two-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+}
+
+.skill-three-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+}
+
+.skill-four-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 17%;
+}
+
+.skill-five-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+}
+
+.register-form input {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: solid 5px black;
+    background: transparent;
+}
+
+.register-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+}
+
+.find-collaborator-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    margin: 50px 0 50px 35%;
+    width: 30%;
+}
+
+.register-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: -4%;
+}
+
+.register-image img {
+    height: 100%;
+    margin-right: 5%;
+    width: 100%;
+    border-radius: 5px;
+    z-index: -2;
+}
+
+.header-on-login nav {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: white;
+    z-index: 3;
+}
+
+.header-on-login p {
+    font-family: "Staatliches", cursive;
+    font-size: 70px;
+    margin-left: 100px;
+}
+
+.login-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+    padding: 50px;
+    margin-left: 5%;
+    margin-top: 15%;
+}
+
+.login-form input {
+    width: 70%;
+    padding: 20px;
+    margin-bottom: 10%;
+    border-color: lightgrey;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: solid 5px black;
+    background: transparent;
+}
+
+.set-profile-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 70%;
+}
+
+.set-profile-form input {
+    width: 50%;
+    padding: 20px;
+    color: white;
+    border-radius: 3px;
+    border: black 3px solid;
+    background: black;
+}
+
+.login-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: -1%;
+}
+
+.login-image img {
+    height: 100%;
+    z-index: -2;
+}
+
+.login-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+}
+
+.name-on-profile {
+    font-family: "Kanit", sans-serif;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.save-bio-container {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 700px;
+    text-align: justify;
+}
+
+.step-by-step h2 {
+    font-family: "Staatliches", cursive;
+    font-size: 40px;
+}
+
+.step-by-step {
+    margin-left: 50px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+
+.collaborator-profile p {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    margin-left: 50px;
+    padding-top: 3%;
+    text-align: justify;
+}
+
+.bioeditor-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.add-bio-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.save-bio-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.end-friendship-button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-top: 30px;
+}
+
+.accept-friendship-button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-top: 30px;
+}
+
+.bio-textarea {
+    height: 300px;
+    width: 500px;
+    border-radius: 3px;
+    border: solid 5px black;
+    color: white;
+    margin-top: 30px;
+    font-family: "Kanit", sans-serif;
+    background-color: black;
+    font-size: 17px;
+    display: block;
+    text-align: justify;
+}
+
+.uploader-form {
+    position: fixed;
+    margin-left: 35%;
+}
+
+.uploader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.uploader-container p {
+    z-index: 50;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10%;
+    margin-top: 60px;
+    font-family: "Staatliches", cursive;
+    cursor: pointer;
+}
+
+.save-profile-info-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.add-profile-info-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.update-profile-info-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    display: block;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.uploader-button {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.profile-pic {
+    height: 290px;
+    width: 290px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: black solid 3px;
+}
+.other-profile-picture {
+    height: 290px;
+    width: 290px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: black solid 3px;
+}
+
+.other-profile-container{
+    margin-top: 200px;
+}
+
+.other-profile-container h1 {
+    font-family: "Kanit", sans-serif;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.h1-on-find-match {
+    text-align: center;
+    font-family: "Staatliches", cursive;
+    font-size: 40px;
+}
+
+.friends-component-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.friends {
+    display: grid;
+    grid-auto-rows: 2rem 20rem;
+    grid-column-gap: 2rem;
+    width: 1200px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.friends-component-container h1 {
+    font-family: "Staatliches", cursive;
+    font-size: 40px;
+    margin-top: 70px;
+    border-bottom: solid 1px black;
+}
+
+.single-friend {
+    grid-row: 2/3;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.find-match-container {
+    margin-top: 188px;
+}
+
+.find-match-container h1 {
+    text-align: center;
+}
+
+.find-users-wrapper {
+    /* background: pink; */
+    margin-bottom: 20px;
+}
+
+.find-matches-wrapper h4 {
+    padding: 10px;
+}
+
+.name-on-recommender {
+    margin-right: 10px;
+}
+
+.find-match-small-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.find-match-small-container a {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 188px;
+    color: black;
+}
+
+.friends h3 {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    height: 50px;
+
+}
+
+.pending-friend-request h3 {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    margin-top: 70px;
+}
+
+.other-profile-container h2 {
+    font-family: "Kanit", sans-serif;
+    border-bottom: solid 2px black;
+    width: 500px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.display-bio-other-profile {
+    display: block;
+    width: 800px;
+    padding-bottom: 50px;
+}
+
+.other-profile-container h4 {
+    font-family: "Staatliches", cursive;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.friends-button-comp {
+    border: none;
+    padding: 16px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+
+.friends-icon {
+    margin-left: 3px;
+}
+
+.chat-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.chat-messages {
+    height: 550px;
+    width: 50%;
+    margin-bottom: 3%;
+    overflow-y: scroll;
+}
+
+.chat-text {
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    text-align: justify;
+}
+
+.text-area-chat {
+    height: 80px;
+    width: 500px;
+    border-radius: 3px;
+    border: solid 5px black;
+    font-family: "Kanit", sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.copyright {
+    height: 10px;
+    width: 10px;
+}
+
+.add-info-container {
+    margin-top: 5%;
+    margin-left: 50px;
+    font-family: "Staatliches", cursive;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: black;
+    font-family: "Staatliches", cursive;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+}
+
+label {
+    font-family: "Kanit", sans-serif;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+
+footer {
+    height: 70px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+footer p {
+    color: black;
+    font-family: "Staatliches", cursive;
+    font-size: 13px;
+    margin-top: 1%;
+}
