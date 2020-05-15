@@ -1,5 +1,5 @@
 # Femail-Social-Network
-The Project Femail is a Social Network built to connect women in order to learn and teach things to each other. The technology used to develop this application includes React.js (with Hooks and Redux), Express/Node.js, Flask/Python, HTML5, CSS 3, AWS S3, PostgreSQL, Cookie Session/CSRF-Token against CSRF attacks, Jest and Socket.io. The project is still ongoing. 
+The Project Femail is a Social Network built to connect women in order to learn and teach things to each other. The technologies used to develop this application includes React.js (with Hooks and Redux), Express/Node.js, Flask/Python, HTML5, CSS 3, AWS S3, PostgreSQL, Cookie Session/CSRF-Token against CSRF attacks, Jest and Socket.io. The project is still ongoing. 
 
 ![chrome-capture (11)](https://user-images.githubusercontent.com/50359290/67096796-28f68880-f1b9-11e9-9fd3-1499ef86f141.gif)
 
